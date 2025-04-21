@@ -18,10 +18,15 @@ const SOCIAL_ICONS: SocialIcon = {
   X,
 }
 
+const githubInfo = profiles.find(({ network }) => network === "GitHub")
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
-const linkedUrl = linkedInfo?.url
+const xInfo = profiles.find(({ network }) => network === "X")
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+const linkedUrl = linkedInfo?.url
+const xUrl = xInfo?.url
+const githubUrl = githubInfo?.url
+
+const printInfo = [email, phone, githubUrl, linkedUrl, xUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
@@ -137,11 +142,11 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
   }
 
   footer a {
-    color: #777;
+    color: #706c6c;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #eee;
+    border: 1px solid #c0bebe;
     padding: 4px;
     height: 32px;
     width: 32px;
@@ -150,8 +155,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
   }
 
   footer a:hover {
+    color: #050505;
     background: #eee;
-    border: 1px solid #ddd;
+    border: 1px solid #050505;
   }
 
   @media (width <= 700px) {
