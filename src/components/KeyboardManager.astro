@@ -90,6 +90,12 @@ const profilesInfo = profiles.map(({ network, url }) => {
 >
 </div>
 
+<template id="hotkeypad-footer">
+  <p><kbd>↩</kbd> seleccionar</p>
+  <p><kbd>↑</kbd><kbd>↓</kbd> navegar</p>
+  <p><kbd>Ctrl + K</kbd> / <kbd>Esc</kbd> cerrar</p>
+</template>
+
 <script>
   interface Info {
     id: string
@@ -214,9 +220,16 @@ const profilesInfo = profiles.map(({ network, url }) => {
   }
 
   kbd {
-    background: #eee;
+    background: #d4d4d4;
     border-radius: 4px;
     padding: 2px 4px;
     font-size: 12px;
+  }
+  p{
+      display:flex;             
+      align-items:center;        
+      justify-content:center;    
+      gap:6px;                   
+      margin:4px 0;
   }
 </style>
