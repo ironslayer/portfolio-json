@@ -39,7 +39,7 @@
         "url": "https://maplenet.com.bo/",
         "startDate": "2025-01-02",
         "endDate": "2025-03-31",
-        "summary": "Brinde apoyo en el área de Tecnologías de la Información, mediante el desarrollo de software e integración de soluciones tecnológicas a los sistemas de la empresa, así como la elaboración de reportes e informes técnicos, y la participación activa en reuniones y actividades relacionadas con la gestión y seguimiento de asuntos tecnológicos, en coordinación con el equipo de consultoría.",
+        "summary": "Apoyé en el área de Tecnologías de la Información, mediante el desarrollo de software e integración de soluciones tecnológicas a los sistemas de la empresa, así como la elaboración de reportes e informes técnicos, y la participación activa en reuniones y actividades relacionadas con la gestión y seguimiento de asuntos tecnológicos, en coordinación con el equipo de consultoría.",
         "highlights": ["Started the company"]
       },
       {
@@ -48,7 +48,7 @@
         "url": "https://www.linkedin.com/in/alvaro-richard-guarachi-ticona-6aa4362a3/",
         "startDate": "2024-09-10",
         "endDate": "2024-12-15",
-        "summary": "Diseñé e implementé un sistema integral de inventarios para un ferretería que centraliza la gestión de artículos, controla stock en tiempo real, automatiza alertas de reposición y genera reportes financieros detallados, reduciendo roturas de stock y optimizando la rotación de productos..",
+        "summary": "Diseñé e implementé un sistema integral de inventarios para un ferretería que centraliza la gestión de artículos, controla stock en tiempo real, automatiza alertas de reposición y genera reportes financieros detallados, reduciendo roturas de stock y optimizando la rotación de productos.",
         "highlights": ["Started the company"]
       },
       {
@@ -140,11 +140,6 @@
         ]
       },
       {
-        "name": "TypeScript",
-        "level": "Intermediate",
-        "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-      },
-      {
         "name": "NodeJS",
         "level": "Intermediate",
         "keywords": ["Desarrollo Web", "Backend", "Fullstack"]
@@ -178,6 +173,11 @@
         "name": "CodeIgniter",
         "level": "Intermediate",
         "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
       },
       {
         "name": "Python",
