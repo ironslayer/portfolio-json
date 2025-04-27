@@ -238,6 +238,10 @@
       {
         "name": "Lectura",
         "keywords": ["Ferrets", "Comics"]
+      },
+      {
+        "name": "Ejercicios",
+        "keywords": ["Ferrets", "Gimnasio"]
       }
     ],
     "references": [
