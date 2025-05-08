@@ -278,6 +278,10 @@
       {
         "name": "Ejercicios",
         "keywords": ["Ferrets", "Gimnasio"]
+      },
+      {
+        "name": "Videojuegos",
+        "keywords": ["Ferrets", "Games"]
       }
     ],
     "references": [
