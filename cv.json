@@ -296,8 +296,13 @@
       {
         "name": "Juan Peréz",
         "reference": "Reference…"
-      },{
+      },
+      {
         "name": "María López",
+        "reference": "Reference…"
+      },
+      {
+        "name": "Alberto García",
         "reference": "Reference…"
       }
     ],
