@@ -290,6 +290,10 @@
       {
         "name": "Tecnología",
         "keywords": ["Ferrets", "Tech"]
+      },
+      {
+        "name": "Deportes",
+        "keywords": ["Ferrets", "Tech"]
       }
     ],
     "references": [
