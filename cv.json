@@ -298,6 +298,10 @@
       {
         "name": "Cocina",
         "keywords": ["Ferrets", "Tech"]
+      },
+      {
+        "name": "Teatro",
+        "keywords": ["Ferrets", "Tech"]
       }
     ],
     "references": [
