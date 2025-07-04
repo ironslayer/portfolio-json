@@ -322,6 +322,10 @@
       {
         "name": "Pintura",
         "keywords": ["Ferrets", "Tech"]
+      },
+      {
+        "name": "Gimnasio",
+        "keywords": ["Ferrets", "Tech"]
       }
     ],
     "references": [
