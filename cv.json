@@ -326,6 +326,10 @@
       {
         "name": "Gimnasio",
         "keywords": ["Ferrets", "Tech"]
+      },
+      {
+        "name": "Desarrollo web",
+        "keywords": ["Ferrets", "Tech"]
       }
     ],
     "references": [
