@@ -358,6 +358,10 @@
       {
         "name": "Bombero",
         "keywords": ["Ferrets", "Tech"]
+      },
+      {
+        "name": "Escalar",
+        "keywords": ["Ferrets", "Tech"]
       }
     ],
     "references": [
