@@ -252,11 +252,11 @@
         "keywords": ["Ferrets", "Gimnasio"]
       },
       {
-        "name": "Programación",
-        "keywords": ["Ferrets", "Code"]
+        "name": "Videojuegos",
+        "keywords": ["Ferrets", "Games"]
       },
       {
-        "name": "Danza",
+        "name": "Programación",
         "keywords": ["Ferrets", "Code"]
       }
     ],
@@ -271,6 +271,10 @@
       },
       {
         "name": "Alberto García",
+        "reference": "Reference…"
+      },
+      {
+        "name": "Juan Larza",
         "reference": "Reference…"
       }
     ],
