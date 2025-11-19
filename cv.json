@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Alvaro Richard Guarachi Ticona",
-      "label": "Desarrollador Web Fullstack",
+      "label": "Licenciado en Informática",
       "image": "/img.jpg",
       "email": "alvaro.guarachi.ticona@gmail.com",
       "phone": "+591 76546402",
       "url": "https://johndoe.com",
-      "summary": "Soy un desarrollador web fullstack entusiasta, comprometido con el aprendizaje continuo y la mejora constante de mis habilidades. Tengo experiencia en el diseño y desarrollo de soluciones web eficientes, utilizando tecnologías modernas y frameworks actuales. Mi objetivo es aportar valor a cada proyecto mediante propuestas tecnológicas innovadoras y de alta calidad que contribuyan a su éxito.",
+      "summary": "Licenciado en Informática, comprometido con el aprendizaje continuo y la mejora constante de mis habilidades. Tengo experiencia en el diseño y desarrollo de soluciones web eficientes, utilizando tecnologías modernas y frameworks actuales. Mi objetivo es aportar valor a cada proyecto mediante propuestas tecnológicas innovadoras y de alta calidad que contribuyan a su éxito.",
       "location": {
         "address": "La Paz, Bolivia",
         "postalCode": "0000",
